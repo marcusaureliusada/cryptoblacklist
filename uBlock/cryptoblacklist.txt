@@ -1,6 +1,10 @@
 ! Title: CryptoBlackList
 ! Homepage: https://github.com/marcusaureliusada/cryptoblacklist
 ! Licence: https://github.com/marcusaureliusada/cryptoblacklist/blob/main/LICENSE
+!------------------------------------------------------------------------------------!
+!
+! ----- fake or phishing websites -----
+!
 nami-web.io
 namiwebapp.io
 ccvaultwebapp.io
@@ -19,6 +23,9 @@ claymatesmint.com
 overexposedmint.com
 clatlexbit.com
 techdepartment.live
+!
+! ---- fake support social media accounts ----
+!
 https://t.co/lwv9szGxet
 https://t.co/VfJU3dkVfm
 https://t.co/xFVHfDjLB0
