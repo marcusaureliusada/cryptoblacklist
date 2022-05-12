@@ -1,9 +1,17 @@
 ! Title: CryptoBlackList
 ! Homepage: https://github.com/marcusaureliusada/cryptoblacklist
 ! Licence: https://github.com/marcusaureliusada/cryptoblacklist/blob/main/LICENSE
+nami-web.io
+namiwebapp.io
+ccvaultwebapp.io`
+secureaids.com
 on-dapps.com
 defisupport.live
+supportprotocol.live
+netify.app
+app-minswap.org
 https://t.co/lwv9szGxet
 https://t.co/VfJU3dkVfm
 https://t.co/xFVHfDjLB0
-https://twitter.com/minswap_dex1?s=21&t=So-DYojS2hHN5Q1hESQChA
+https://twitter.com/minswap_dex1
+https://twitter.com/MinswapDEXs
