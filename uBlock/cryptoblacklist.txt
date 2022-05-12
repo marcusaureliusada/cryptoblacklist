@@ -3,7 +3,7 @@
 ! Licence: https://github.com/marcusaureliusada/cryptoblacklist/blob/main/LICENSE
 nami-web.io
 namiwebapp.io
-ccvaultwebapp.io`
+ccvaultwebapp.io
 secureaids.com
 on-dapps.com
 defisupport.live
