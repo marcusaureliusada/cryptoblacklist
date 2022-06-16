@@ -28,6 +28,7 @@ cardonointerchain.com
 coinlistxrt.com
 securepublicchain.com
 cornucopias-mint.com
+dex-web.org
 !
 ! ---- fake support social media accounts ----
 !
